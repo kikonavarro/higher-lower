@@ -1,0 +1,1 @@
+Easy game created in phyton, choose which famous have more followers and try to win!
